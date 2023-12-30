@@ -1,0 +1,230 @@
+*{
+    border:0;
+    padding: 0;
+    margin:0;
+    list-style-type:none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.main{
+    background: #f6d28e;
+    height: 300px;
+}
+.header-left-side{
+    margin-top: 30px;
+    margin-left: 200px;
+    line-height: 30px;
+    float: left;
+}
+.link{
+    background:#2F42B8;
+    color:white;
+    width:80px;
+    padding:15px;
+    border-radius: 20px;
+}
+.header-right-side{
+    float: left;
+}
+.imgs{
+    width:300px; height: 300px;
+    margin-left: 200px;
+}
+
+.heading{
+    text-align: center;
+    padding:20px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 12px;
+}
+.cloums{
+    width:90%;
+    margin:5px auto;
+    margin-left: 65px;
+    display: inline-block;
+
+}
+.colum{
+    box-shadow: 2px 2px 2px 2px rgb(114, 95, 95);
+    background:#F1F5F8;
+    height:200px;
+    line-height: 1.3rem;
+    width:300px;
+    text-align: center;
+    float: left;
+    margin-left: 40px;
+    
+}
+.colum h2{
+    margin:10px 0;
+
+}
+.gap{
+    margin-top:40px;
+}
+.about{
+    float: left;
+    margin-right: 80px;
+
+}
+.about h2 {
+    font-size: 40px;
+}
+.about p{
+    line-height: 20px;
+}
+.jihad{
+    width:80%;
+    margin: 60px auto;
+
+}
+.teeth i{
+ font-size: 40px;
+ margin-top: 10px; 
+}
+.teeth h2{
+    line-height: 30px;
+}
+.teeth p{
+    margin-bottom: 20px;
+}
+.teeth a {
+    margin-top: px;
+    padding:15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background:lightgray;
+    border-radius: 40px;
+
+}
+.Dentists{
+    text-align: center;
+    line-height: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.image{
+   display: flex;
+}
+.x{
+    margin:20px 30px 10px ;
+}
+.img-logo{
+    width:200px;
+    height: 200px;
+    border-radius: 20px;
+    /* margin:30px 20px -10px 30px */
+    /* display: inline-block; */
+}
+.img-logo h2{
+    display: block;
+
+}
+.logos{
+    width:70%;
+    margin:0 auto;
+    background:lightblue;
+    border-radius: 20px;
+
+}
+.image h2{
+    display: inline-block
+}
+.contents{
+    text-align: center;
+    margin-top: 50px;
+    line-height: 20px;
+}
+.contents h1{
+    margin-bottom: 20px;
+}
+.contents input{
+    margin-top: 30px;
+    font-size: 10px;
+}
+.boubal{
+    background: #FBF8F1;
+}
+.New{
+    overflow: hidden;
+    width:80%;
+    margin: 50px auto;
+
+}
+.Accepting{
+    float: left;
+    margin-left: 200px;
+    margin-right: 100px;
+    line-height: 20px;
+}
+.Accepting p {
+
+}
+.Accepting h2{
+    padding:  10px 0 ;
+    background: white;
+    margin-top: 10px;
+    line-height: 20px;
+}
+h4{
+    margin: 10px 0 ;
+}
+h2 span{
+    margin-left: 70px;
+    color:lightseagreen
+}
+.img-logos{
+    width:300px;
+    height:360px;
+    margin:20px 0;
+    border-radius: 20px;
+}
+.center{
+    text-align:center;
+    line-height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.center a{
+    background:blue;
+    color:white;
+    padding:10px;
+    line-height: 60px;
+    border-radius: 40px;
+}
+.footer-main{
+    background: blue;
+    height: 280px;
+}
+.footer{
+    float: left;
+    margin:20px 100px;
+    color: white;
+    line-height: 30px;
+}
+.footer span{
+    font-size: 50px;
+}
+.footers{
+    float: left;
+    margin:20px 50px;
+    color:white;
+    line-height: 40px;
+}
+.footers a{
+    padding:15px;
+    background: #F1F5F8;
+    border-radius: 40px;
+    color:black
+}
+.muktagachha{
+    float: left;
+    line-height: 30px;
+    margin:30px 30px;
+    color:white
+}
+.muktagachha i {
+    font-size: 30px;
+    width:40px;
+    height: 40px;
+    border:2 solid white;
+    
+}
